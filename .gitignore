@@ -1,0 +1,13 @@
+auto
+auto/hci.el
+auto/proceedings.el
+figures/.DS_Store
+.DS_Store
+hci.bib~
+proceedings.aux
+proceedings.bbl
+proceedings.blg
+proceedings.log
+proceedings.out
+proceedings.pdf
+proceedings.synctex.gz

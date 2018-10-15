@@ -1,0 +1,41 @@
+Participant,Number,Condition,I found the camera useful.,I knew what the camera was looking at during the meeting.,I wanted to control the camera.,I could control the camera with ease.,I found controlling the robot distracting.
+Lyndon K,1,360,Neutral,Agree,Disagree,,
+Matt C,2,360,Neutral,Disagree,Disagree,,
+Patrick C,3,360,Strongly Agree,Strongly Agree,Strongly Disagree,,
+Chelhwon,4,360,Strongly Agree,Disagree,Strongly Disagree,,
+Jian,5,360,Agree,Disagree,Neutral,,
+Daniel,6,360,Agree,Strongly Agree,Strongly Disagree,,
+Rena,7,360,Agree,Disagree,Neutral,,
+Matt L,8,360,Strongly Agree,Disagree,Disagree,,
+Yanying,9,360,Agree,Strongly Disagree,Neutral,,
+Oda,10,360,Agree,Strongly Disagree,Neutral,,
+Lyndon K,1,AI,Agree,Agree,Neutral,,
+Matt C,2,AI,Agree,Agree,Disagree,,
+Patrick C,3,AI,Neutral,Agree,Strongly Agree,,
+Chelhwon,4,AI,Agree,Agree,Disagree,,
+Jian,5,AI,Agree,Agree,Disagree,,
+Daniel,6,AI,Strongly Agree,Strongly Agree,Disagree,,
+Rena,7,AI,Strongly Agree,Strongly Agree,Strongly Agree,,
+Matt L,8,AI,Agree,Agree,Disagree,,
+Yanying,9,AI,Agree,Agree,Disagree,,
+Oda,10,AI,Agree,Strongly Agree,Neutral,,
+Lyndon K,1,Gesture,Agree,Agree,,Disagree,Agree
+Matt C,2,Gesture,Agree,Agree,,Neutral,Disagree
+Patrick C,3,Gesture,Strongly Agree,Agree,,Agree,Neutral
+Chelhwon,4,Gesture,Strongly Agree,Strongly Agree,,Netural,Disagree
+Jian,5,Gesture,Neutral,Agree,,Disagree,Agree
+Daniel,6,Gesture,Agree,Agree,,Disagree,Agree
+Rena,7,Gesture,Neutral,Strongly Agree,,Disagree,Strongly Agree
+Matt L,8,Gesture,Disagree,Disagree,,Strongly disagree,Agree
+Yanying,9,Gesture,Agree,Agree,,Agree,Agree
+Oda,10,Gesture,Agree,Strongly Agree,,Agree,Disagree
+Lyndon K,1,Voice Command,Agree,Agree,,Neutral,Agree
+Matt C,2,Voice Command,Agree,Agree,,Agree,Disagree
+Patrick C,3,Voice Command,Strongly Agree,Agree,,Disagree,Agree
+Chelhwon,4,Voice Command,Strongly Agree,Strongly Agree,,Neutral,Disagree
+Jian,5,Voice Command,Strongly Agree,Agree,,Agree,Disagree
+Daniel,6,Voice Command,Agree,Agree,,Strongly Agree,Agree
+Rena,7,Voice Command,Strongly Agree,Strongly Agree,,Strongly Agree,Neutral
+Matt L,8,Voice Command,Agree,Disagree,,Neutral,Strongly Agree
+Yanying,9,Voice Command,Agree,Agree,,Agree,Neutral
+Oda,10,Voice Command,Agree,Agree,,Disagree,Neutral
